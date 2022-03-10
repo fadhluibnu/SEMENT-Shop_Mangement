@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SEMENT-Shop_Mangement.iml" filepath="$PROJECT_DIR$/.idea/modules/SEMENT-Shop_Mangement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SEMENT-Shop_Mangement.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SEMENT-Shop_Mangement.app.iml" />
+    </modules>
+  </component>
+</project>
