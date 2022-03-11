@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\ACER\.gradle\caches\transforms-3\cef3e3d580928509e0a549eb8e2ca09e\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\f4fd250266fdb65f32055fd41153bb53\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:2:1-21:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\3245e83c0befcc132b70fa3d50b45cd8\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:2:1-21:12
@@ -55,25 +55,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ACER\.gradle\cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\9cdd3516516bca5f67883ecffff607a0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\c0fa6c3458e4ee5a64d4c5e2b612ee36\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ACER\.gradle\caches\transforms-3\43d22bf9ea38a0ae7c066064cbee1f77\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:3:5-48
 		INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml
-		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml
-		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:5:5-22:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\f4fd250266fdb65f32055fd41153bb53\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\f4fd250266fdb65f32055fd41153bb53\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\3245e83c0befcc132b70fa3d50b45cd8\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:11:5-19:19
@@ -120,24 +120,32 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\ACER\.gradle\cache
 		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:11:9-58
+activity#com.example.sement_shop_mangement.CreateDataPengeluaranActivity
+ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:12:9-76
+	android:name
+		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:12:19-64
+activity#com.example.sement_shop_mangement.CreateDataPenjualanActivity
+ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:13:9-65
+	android:name
+		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:13:19-62
 activity#com.example.sement_shop_mangement.SpalshActivity
-ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:12:19-49
+		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:14:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.example.sement_shop_mangement.MainActivity
-ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:19:9-59
+ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:21:9-50
 	android:name
-		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:19:19-47
+		ADDED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:21:19-47
 uses-sdk
 INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml

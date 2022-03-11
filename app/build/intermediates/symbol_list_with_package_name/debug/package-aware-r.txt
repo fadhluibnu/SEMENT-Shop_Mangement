@@ -2454,6 +2454,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable backgorund_primary
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2462,6 +2463,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_color
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -2540,11 +2542,19 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pengeluaran_button
+drawable penjualan_button
+drawable penjualan_header
+drawable penngeluaran_header
 drawable sment_logo
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font asapbold
+font asapmedium
+font asapregular
+font asapsemibold
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2557,6 +2567,7 @@ id SHOW_ALL
 id SHOW_PATH
 id SHOW_PROGRESS
 id SYM
+id Sement_text
 id TOP_END
 id TOP_START
 id accelerate
@@ -2646,6 +2657,9 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id buttonPanel
+id button_create_data_pengeluaran
+id button_create_data_penjualan
+id button_group
 id cache_measures
 id callMeasure
 id cancel_button
@@ -2810,6 +2824,7 @@ id material_timepicker_mode_button
 id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
+id menu_dashboard
 id message
 id middle
 id mini
@@ -3115,6 +3130,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_create_data_pengeluaran
+layout activity_create_data_penjualan
 layout activity_main
 layout activity_spalsh
 layout custom_dialog

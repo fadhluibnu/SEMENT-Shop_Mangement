@@ -10,8 +10,11 @@ class SpalshActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_spalsh)
 
+        setFullScreen(window)
+
         Handler().postDelayed({
             startActivity(Intent(this, MainActivity::class.java))
+            finish()
         }, 2000)
 
     }

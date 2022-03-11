@@ -1,19 +1,11 @@
 [
     {
-        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_penjualan_header.png.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\drawable-v24\\penjualan_header.png"
     },
     {
         "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -24,24 +16,12 @@
         "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sment_logo.png.flat",
-        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\drawable-v24\\sment_logo.png"
-    },
-    {
-        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_spalsh.xml.flat",
-        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\layout\\activity_spalsh.xml"
-    },
-    {
         "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\font_asapregular.ttf.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\font\\asapregular.ttf"
     },
     {
         "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -54,18 +34,6 @@
     {
         "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -84,8 +52,88 @@
         "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\font_asapbold.ttf.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\font\\asapbold.ttf"
+    },
+    {
         "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pengeluaran_button.png.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\drawable-v24\\pengeluaran_button.png"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_data_pengeluaran.xml.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\layout\\activity_create_data_pengeluaran.xml"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgorund_primary.xml.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\drawable\\backgorund_primary.xml"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_penjualan_button.png.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\drawable-v24\\penjualan_button.png"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_color.xml.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\drawable\\button_color.xml"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sment_logo.png.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\drawable-v24\\sment_logo.png"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_spalsh.xml.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\layout\\activity_spalsh.xml"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_penngeluaran_header.png.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\drawable-v24\\penngeluaran_header.png"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\font_asapmedium.ttf.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\font\\asapmedium.ttf"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_data_penjualan.xml.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\layout\\activity_create_data_penjualan.xml"
+    },
+    {
+        "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\font_asapsemibold.ttf.flat",
+        "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\font\\asapsemibold.ttf"
     },
     {
         "merged": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",

@@ -23,6 +23,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.SEMENTShop_Mangement" >
+        <activity android:name="com.example.sement_shop_mangement.CreateDataPengeluaranActivity" />
+        <activity android:name="com.example.sement_shop_mangement.CreateDataPenjualanActivity" />
         <activity android:name="com.example.sement_shop_mangement.SpalshActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -2453,6 +2453,7 @@ int drawable abc_textfield_search_material 0x7f070054
 int drawable abc_vector_test 0x7f070055
 int drawable avd_hide_password 0x7f070056
 int drawable avd_show_password 0x7f070057
+int drawable backgorund_primary 0x7f0700b3
 int drawable btn_checkbox_checked_mtrl 0x7f070058
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f070059
 int drawable btn_checkbox_unchecked_mtrl 0x7f07005a
@@ -2461,6 +2462,7 @@ int drawable btn_radio_off_mtrl 0x7f07005c
 int drawable btn_radio_off_to_on_mtrl_animation 0x7f07005d
 int drawable btn_radio_on_mtrl 0x7f07005e
 int drawable btn_radio_on_to_off_mtrl_animation 0x7f07005f
+int drawable button_color 0x7f0700b4
 int drawable common_full_open_on_phone 0x7f070060
 int drawable common_google_signin_btn_icon_dark 0x7f070061
 int drawable common_google_signin_btn_icon_dark_focused 0x7f070062
@@ -2539,11 +2541,19 @@ int drawable notification_template_icon_bg 0x7f0700aa
 int drawable notification_template_icon_low_bg 0x7f0700ab
 int drawable notification_tile_bg 0x7f0700ac
 int drawable notify_panel_notification_icon_bg 0x7f0700ad
+int drawable pengeluaran_button 0x7f0700b5
+int drawable penjualan_button 0x7f0700b6
+int drawable penjualan_header 0x7f0700b7
+int drawable penngeluaran_header 0x7f0700b8
 int drawable sment_logo 0x7f0700b2
 int drawable test_custom_background 0x7f0700ae
 int drawable test_level_drawable 0x7f0700af
 int drawable tooltip_frame_dark 0x7f0700b0
 int drawable tooltip_frame_light 0x7f0700b1
+int font asapbold 0x7f130000
+int font asapmedium 0x7f130001
+int font asapregular 0x7f130002
+int font asapsemibold 0x7f130003
 int id ALT 0x7f080000
 int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002
@@ -2556,6 +2566,7 @@ int id SHOW_ALL 0x7f080008
 int id SHOW_PATH 0x7f080009
 int id SHOW_PROGRESS 0x7f08000a
 int id SYM 0x7f08000b
+int id Sement_text 0x7f0801e4
 int id TOP_END 0x7f08000c
 int id TOP_START 0x7f08000d
 int id accelerate 0x7f08000e
@@ -2645,6 +2656,9 @@ int id bounceBoth 0x7f080061
 int id bounceEnd 0x7f080062
 int id bounceStart 0x7f080063
 int id buttonPanel 0x7f080064
+int id button_create_data_pengeluaran 0x7f0801e5
+int id button_create_data_penjualan 0x7f0801e6
+int id button_group 0x7f0801e7
 int id cache_measures 0x7f080065
 int id callMeasure 0x7f080066
 int id cancel_button 0x7f080067
@@ -2809,6 +2823,7 @@ int id material_timepicker_mode_button 0x7f080104
 int id material_timepicker_ok_button 0x7f080105
 int id material_timepicker_view 0x7f080106
 int id material_value_index 0x7f080107
+int id menu_dashboard 0x7f0801e8
 int id message 0x7f080108
 int id middle 0x7f080109
 int id mini 0x7f08010a
@@ -3114,6 +3129,8 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_create_data_pengeluaran 0x7f0b0075
+int layout activity_create_data_penjualan 0x7f0b0076
 int layout activity_main 0x7f0b001c
 int layout activity_spalsh 0x7f0b0074
 int layout custom_dialog 0x7f0b001d
