@@ -6,63 +6,133 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml
+8-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml
+9-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml
 10
-11    <application
-11-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:5:5-19:19
-12        android:allowBackup="true"
-12-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:6:9-35
-13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.7.0] C:\Users\ACER\.gradle\caches\transforms-3\b51aa5350d60ce798defdac091a9d4e8\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
-14        android:debuggable="true"
-15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:7:9-43
-16        android:label="@string/app_name"
-16-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:8:9-41
-17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:9:9-54
-18        android:supportsRtl="true"
-18-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:10:9-35
-19        android:theme="@style/Theme.SEMENTShop_Mangement" >
-19-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:11:9-58
-20        <activity android:name="com.example.sement_shop_mangement.MainActivity" >
-20-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:12:9-18:20
-20-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:12:19-47
-21            <intent-filter>
-21-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:13:13-17:29
-22                <action android:name="android.intent.action.MAIN" />
-22-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:14:17-69
-22-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:14:25-66
-23
-24                <category android:name="android.intent.category.LAUNCHER" />
-24-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:16:17-77
-24-->C:\Users\ACER\AndroidStudioProjects\SEMENTShop_Mangement\app\src\main\AndroidManifest.xml:16:27-74
-25            </intent-filter>
-26        </activity>
-27
-28        <provider
-28-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\d1180f69ad6300da9c0bdb094998a19a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-29            android:name="androidx.startup.InitializationProvider"
-29-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\d1180f69ad6300da9c0bdb094998a19a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-30            android:authorities="com.example.sement_shop_mangement.androidx-startup"
-30-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\d1180f69ad6300da9c0bdb094998a19a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-31            android:exported="false" >
-31-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\d1180f69ad6300da9c0bdb094998a19a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-32            <meta-data
-32-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\d1180f69ad6300da9c0bdb094998a19a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-33                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-33-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\d1180f69ad6300da9c0bdb094998a19a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-34                android:value="androidx.startup" />
-34-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\d1180f69ad6300da9c0bdb094998a19a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-35            <meta-data
-35-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ACER\.gradle\caches\transforms-3\3ba02f5987b9f4763ea8f8cb0f58e686\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-36                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-36-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ACER\.gradle\caches\transforms-3\3ba02f5987b9f4763ea8f8cb0f58e686\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-37                android:value="androidx.startup" />
-37-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ACER\.gradle\caches\transforms-3\3ba02f5987b9f4763ea8f8cb0f58e686\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-38        </provider>
-39    </application>
-40
-41</manifest>
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\45f28c803a4c0eadee8d514ef981c92a\transformed\firebase-database-20.0.3\AndroidManifest.xml:25:5-79
+13-->[com.google.firebase:firebase-database:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\45f28c803a4c0eadee8d514ef981c92a\transformed\firebase-database-20.0.3\AndroidManifest.xml:25:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-database:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\45f28c803a4c0eadee8d514ef981c92a\transformed\firebase-database-20.0.3\AndroidManifest.xml:26:5-67
+14-->[com.google.firebase:firebase-database:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\45f28c803a4c0eadee8d514ef981c92a\transformed\firebase-database-20.0.3\AndroidManifest.xml:26:22-64
+15
+16    <application
+16-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:5:5-20:19
+17        android:allowBackup="true"
+17-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:6:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.7.0] C:\Users\ACER\.gradle\caches\transforms-3\9f16ca349d60a5d0c15f9341ba2ef525\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:7:9-43
+21        android:label="@string/app_name"
+21-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:8:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:9:9-54
+23        android:supportsRtl="true"
+23-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:10:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.SEMENTShop_Mangement" >
+25-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:11:9-58
+26        <activity android:name="com.example.sement_shop_mangement.SpalshActivity" >
+26-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:12:9-18:20
+26-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:12:19-49
+27            <intent-filter>
+27-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:13:13-17:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:14:17-69
+28-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:14:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:16:17-77
+30-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:16:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity android:name="com.example.sement_shop_mangement.MainActivity" />
+33-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:19:9-59
+33-->D:\Application\SEMENT-Shop_Mangement1\app\src\main\AndroidManifest.xml:19:19-47
+34
+35        <service
+35-->[com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\f4fd250266fdb65f32055fd41153bb53\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:12:9-18:19
+36            android:name="com.google.firebase.components.ComponentDiscoveryService"
+36-->[com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\f4fd250266fdb65f32055fd41153bb53\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:13:13-84
+37            android:directBootAware="true"
+37-->[com.google.firebase:firebase-common:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\5d47dc4b94f33daa25ea838b58186d40\transformed\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+38            android:exported="false" >
+38-->[com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\f4fd250266fdb65f32055fd41153bb53\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:14:13-37
+39            <meta-data
+39-->[com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\f4fd250266fdb65f32055fd41153bb53\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:15:13-17:85
+40                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+40-->[com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\f4fd250266fdb65f32055fd41153bb53\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:16:17-124
+41                android:value="com.google.firebase.components.ComponentRegistrar" />
+41-->[com.google.firebase:firebase-database-ktx:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\f4fd250266fdb65f32055fd41153bb53\transformed\firebase-database-ktx-20.0.3\AndroidManifest.xml:17:17-82
+42            <meta-data
+42-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\3245e83c0befcc132b70fa3d50b45cd8\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+43                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+43-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\3245e83c0befcc132b70fa3d50b45cd8\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
+44                android:value="com.google.firebase.components.ComponentRegistrar" />
+44-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\3245e83c0befcc132b70fa3d50b45cd8\transformed\firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
+45            <meta-data
+45-->[com.google.firebase:firebase-database:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\45f28c803a4c0eadee8d514ef981c92a\transformed\firebase-database-20.0.3\AndroidManifest.xml:32:13-34:85
+46                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+46-->[com.google.firebase:firebase-database:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\45f28c803a4c0eadee8d514ef981c92a\transformed\firebase-database-20.0.3\AndroidManifest.xml:33:17-109
+47                android:value="com.google.firebase.components.ComponentRegistrar" />
+47-->[com.google.firebase:firebase-database:20.0.3] C:\Users\ACER\.gradle\caches\transforms-3\45f28c803a4c0eadee8d514ef981c92a\transformed\firebase-database-20.0.3\AndroidManifest.xml:34:17-82
+48        </service>
+49
+50        <provider
+50-->[com.google.firebase:firebase-common:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\5d47dc4b94f33daa25ea838b58186d40\transformed\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+51            android:name="com.google.firebase.provider.FirebaseInitProvider"
+51-->[com.google.firebase:firebase-common:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\5d47dc4b94f33daa25ea838b58186d40\transformed\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+52            android:authorities="com.example.sement_shop_mangement.firebaseinitprovider"
+52-->[com.google.firebase:firebase-common:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\5d47dc4b94f33daa25ea838b58186d40\transformed\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+53            android:directBootAware="true"
+53-->[com.google.firebase:firebase-common:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\5d47dc4b94f33daa25ea838b58186d40\transformed\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+54            android:exported="false"
+54-->[com.google.firebase:firebase-common:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\5d47dc4b94f33daa25ea838b58186d40\transformed\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+55            android:initOrder="100" />
+55-->[com.google.firebase:firebase-common:20.0.0] C:\Users\ACER\.gradle\caches\transforms-3\5d47dc4b94f33daa25ea838b58186d40\transformed\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+56
+57        <activity
+57-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ACER\.gradle\caches\transforms-3\61f2ccbe7c47f26d4b847d4a44a54dd7\transformed\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+58            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+58-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ACER\.gradle\caches\transforms-3\61f2ccbe7c47f26d4b847d4a44a54dd7\transformed\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+59            android:exported="false"
+59-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ACER\.gradle\caches\transforms-3\61f2ccbe7c47f26d4b847d4a44a54dd7\transformed\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+60-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ACER\.gradle\caches\transforms-3\61f2ccbe7c47f26d4b847d4a44a54dd7\transformed\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+61
+62        <meta-data
+62-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-3\3eb31f734433d7212c41be076efecd19\transformed\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+63            android:name="com.google.android.gms.version"
+63-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-3\3eb31f734433d7212c41be076efecd19\transformed\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+64            android:value="@integer/google_play_services_version" />
+64-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\ACER\.gradle\caches\transforms-3\3eb31f734433d7212c41be076efecd19\transformed\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+65
+66        <provider
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\6ffc452007481a7ffe5549ab1eeb5fa1\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+67            android:name="androidx.startup.InitializationProvider"
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\6ffc452007481a7ffe5549ab1eeb5fa1\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+68            android:authorities="com.example.sement_shop_mangement.androidx-startup"
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\6ffc452007481a7ffe5549ab1eeb5fa1\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+69            android:exported="false" >
+69-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\6ffc452007481a7ffe5549ab1eeb5fa1\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+70            <meta-data
+70-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\6ffc452007481a7ffe5549ab1eeb5fa1\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+71                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\6ffc452007481a7ffe5549ab1eeb5fa1\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+72                android:value="androidx.startup" />
+72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ACER\.gradle\caches\transforms-3\6ffc452007481a7ffe5549ab1eeb5fa1\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+73            <meta-data
+73-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ACER\.gradle\caches\transforms-3\463296fabf5b6e8724eea10d9bd4671a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+74                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+74-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ACER\.gradle\caches\transforms-3\463296fabf5b6e8724eea10d9bd4671a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+75                android:value="androidx.startup" />
+75-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ACER\.gradle\caches\transforms-3\463296fabf5b6e8724eea10d9bd4671a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+76        </provider>
+77    </application>
+78
+79</manifest>
