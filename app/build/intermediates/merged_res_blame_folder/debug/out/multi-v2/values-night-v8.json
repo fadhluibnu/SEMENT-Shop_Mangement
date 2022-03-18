@@ -1,29 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\HP\\AndroidStudioProjects\\SEMENT-Shop_Mangement\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\Application\\SEMENT-Shop_Mangement1\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\327321edceb5d85c211b5e1ff20fc0f9\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "841"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
                     },
                     "to": {
-                        "startLines": "33",
-                        "startColumns": "4",
-                        "startOffsets": "3386",
-                        "endLines": "45",
-                        "endColumns": "12",
-                        "endOffsets": "4111"
+                        "startLines": "2,3,4,5,6,7,8,46",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,170,254,338,434,536,638,4116",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "165,249,333,429,531,633,727,4200"
                     }
                 },
                 {
-                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\302b1ebf35d3e269c203fef3b596ccf6\\transformed\\material-1.5.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\302b1ebf35d3e269c203fef3b596ccf6\\transformed\\material-1.5.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,20 +38,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ACER\\.gradle\\caches\\transforms-3\\327321edceb5d85c211b5e1ff20fc0f9\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\HP\\AndroidStudioProjects\\SEMENT-Shop_Mangement\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "841"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,46",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,170,254,338,434,536,638,4116",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "165,249,333,429,531,633,727,4200"
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3386",
+                        "endLines": "45",
+                        "endColumns": "12",
+                        "endOffsets": "4111"
                     }
                 }
             ]

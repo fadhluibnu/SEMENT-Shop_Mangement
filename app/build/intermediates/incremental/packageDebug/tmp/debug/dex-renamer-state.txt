@@ -1,4 +1,4 @@
-#Fri Mar 11 15:49:59 ICT 2022
-base.0=D\:\\Application\\SEMENT-Shop_Mangement1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Fri Mar 18 15:25:21 ICT 2022
+base.0=C\:\\Users\\HP\\AndroidStudioProjects\\SEMENT-Shop_Mangement\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

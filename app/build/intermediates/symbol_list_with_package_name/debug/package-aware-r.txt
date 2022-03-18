@@ -2455,6 +2455,7 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable backgorund_primary
+drawable baseline_arrow_back_ios
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2656,6 +2657,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnSave
 id buttonPanel
 id button_create_data_pengeluaran
 id button_create_data_penjualan
@@ -2781,6 +2783,8 @@ id imageView_splash
 id immediateStop
 id included
 id info
+id inputHarga
+id inputNama
 id invisible
 id inward
 id italic
@@ -2800,6 +2804,7 @@ id light
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_item
 id masked
@@ -2995,6 +3000,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
